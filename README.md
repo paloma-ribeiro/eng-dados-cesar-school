@@ -4,13 +4,6 @@
 
 ### Repositório criado para armazenar as atividades do curso Engenharia de Dados - Renner e Cesar School - Grupo 02
 
-#### Membros
-
-- Bryan Khelven
-- Diogo Cirulli
-- Paloma Ribeiro
-- Rodrigo
-
 ## Descrição das atividades
 
 [Atividade 1](descricao-atividades/atividade01.md)
