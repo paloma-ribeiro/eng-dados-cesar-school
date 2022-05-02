@@ -14,6 +14,6 @@ Faça commit de todas as atividades de hoje no repositório do time em uma pasta
 
 ## Resolução
 
-![](/img/img-03-script.jpg)
+![](img/img-03-script.jpg)
 
-![](/img/imag-03-script-pt2.jpg)
+![](img/imag-03-script-pt2.jpg)
