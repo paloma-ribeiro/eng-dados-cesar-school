@@ -14,4 +14,4 @@ Utilizando sua linha de comando, navegue até a pasta do seu usuário
 
 ## Resolução
 
-![](/img/img01.jpg)
+![](img/img01.jpg)
