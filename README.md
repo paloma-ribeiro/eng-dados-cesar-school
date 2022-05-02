@@ -11,15 +11,6 @@
 - Paloma Ribeiro
 - Rodrigo
 
-## Para adicionar arquivos
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/atividade_01/atividade_01.git
-git branch -M main
-git push -uf origin main
-```
-
 ## Descrição das atividades
 
 [Atividade 1](descricao-atividades/atividade01.md)
@@ -31,3 +22,15 @@ git push -uf origin main
 [Atividade 4](descricao-atividades/atividade04.md)
 
 [Atividade 5](descricao-atividades/atividade05.md)
+
+## Resolução das atividades
+
+[Atividade 1](resolucao-atividades/atividade01.md)
+
+[Atividade 2](resolucao-atividades/atividade02.md)
+
+[Atividade 3](resolucao-atividades/atividade03.md)
+
+[Atividade 4](resolucao-atividades/atividade04.md)
+
+[Atividade 5](resolucao-atividades/atividade05.md)
