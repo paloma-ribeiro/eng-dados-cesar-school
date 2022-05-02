@@ -14,6 +14,6 @@ Ainda na pasta criada no exercício anterior crie um script que:
 
 ## Resolução
 
-![](/img/img02.jpg)
+![](img/img02.jpg)
 
-![](/img/img02-script.jpg)
+![](img/img02-script.jpg)
