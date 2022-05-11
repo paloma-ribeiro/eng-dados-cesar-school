@@ -9,13 +9,17 @@ Crie um script que realize o download do repositório deste link, copie o conte�
 DESAFIO: Crie um script que leia os dados do arquivo dados-covid-owid.csv, extraia apenas os países e ordene em ordem alfabética salvando em um novo arquivo chamado paises-afetados-covid-owid.txt;
 
 1-
+
 ![](img/img05-01.jpg)
 
 2-
+
 ![](img/img05-02.jpg)
 
 Crontab
-![](img/crontab.jpg)
+
+![](img/img-crontab.jpg)
 
 DESAFIO
+
 ![](img/img-desafio.jpg)
