@@ -10,3 +10,5 @@ AAAA-MM-DD, hh:mm:ss, Processo, xxx MB, onde:
 - DD - dia com 2 dígitos
 - hh:mm:ss - hora, minutos e segundos;
 - xxx MB - quantidade de recursos consumidos em Megabytes
+
+![](img/img04.jpg)
