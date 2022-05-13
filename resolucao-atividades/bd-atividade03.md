@@ -7,3 +7,9 @@ Deve também ter registros dos alunos e seus respectivos professores em caso de 
 acompanhamento dos alunos sem exclusividade em uma unidade apenas por um turno por dia, podendo estar em outro turno em outra unidade.
 
 O cadastro dos alunos deve permitir a identificação individual deles, endereço e formas de contato, também deve registrar o tipo do plano e a forma de pagamento.
+
+## Resolução
+
+### Modelo Conceitual
+
+![](img/conceitual.jpg)
