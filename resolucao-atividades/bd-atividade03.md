@@ -12,4 +12,4 @@ O cadastro dos alunos deve permitir a identificação individual deles, endereç
 
 ### Modelo Conceitual
 
-![](img/conceitual.jpg)
+![](img/conceitual.JPG)
